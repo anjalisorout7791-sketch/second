@@ -1,0 +1,4 @@
+[alias]
+	maisha = add .
+	chanchu = commit -m "demo"
+	chavi = push
