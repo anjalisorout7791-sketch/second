@@ -1,7 +1,0 @@
-  
-  [alias]
-         
-         anjali = add . ; commit -m "task"
-                        
-
-        
